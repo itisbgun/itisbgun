@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @itisbgun
-- 👀 I’m interested in data analytics for social impact
-- 🌱 I’m currently learning SQL, R, and Tableau through the Google Data Analytics Certicate course
-- 💞️ I’m looking to collaborate on how social justice and data intersect
+- 👋 Hi, I’m Ben.
+- 👀 I’m interested in data analytics for social impact.
+- 🌱 I’m currently learning R!
+- 💞️ I’m looking to collaborate at the intersection of social justice and data.
 - 📫 How to reach me: btgunderson@gmail.com
 
 <!---
